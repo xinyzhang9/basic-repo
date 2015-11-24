@@ -1,0 +1,6 @@
+1. go to https://github.com/xinyzhang9/ and make a new repo called “basic_repo”
+2. go to ~xinyang/Github/ and make a local repo called basic_repo
+3. add index.html, style.css to local repo
+4. commit changes and push to github
+5. add a paragraph to index.html
+6. commit changes and push to github
